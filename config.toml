@@ -1,5 +1,0 @@
-baseURL = "https://bliss.io/"
-languageCode = "en-us"
-title = "bliss.io"
-publishDir = "docs"
-theme = "bliss.io"
